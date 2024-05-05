@@ -7,3 +7,21 @@ h3 {color: #800000;
 }
 p {color:black; text-align:justify;
 }
+.H1 {padding: 32px;
+    border: 12px solid silver;
+    margin: ;
+
+}
+.Description {padding: 32px ;
+    border: 3px solid silver;
+    margin-bottom: 48px;
+    background: burlywood
+
+}
+.Ingredientsxsteps {padding: 32px;
+    border: 3px solid silver;
+    margin: ;
+    margin-left:auto;
+    background:navajowhite
+
+}
